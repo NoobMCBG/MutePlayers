@@ -28,6 +28,6 @@ msg-unmute-successfully: "&aUnMute Player {player} Successfully"
 # Use {line} to make a new line
 # mode list: popup, message, title
 msg-mute:
-  mode: "popup"
+  mode: "message"
   msg: "&cYou No Permission to chat"
 ...
