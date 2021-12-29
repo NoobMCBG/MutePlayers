@@ -1,0 +1,33 @@
+---
+# config.yml
+
+# Let mute when the player is not online
+# use true = enable
+# use false = disable
+mute-no-online: true
+# Message Player Not Online
+# Use & to change text color
+# Use {player} to get the player name
+# Use {line} to make a new line
+player-not-online: "&cPlayer {player} not online"
+
+# Message Mute Player Successfully
+# Use & to change text color
+# Use {player} to get the player name
+# Use {line} to make a new line
+msg-mute-successfully: "&aMute Player {player} Successfully"
+
+# Message UnMute Player Successfully
+# Use & to change text color
+# Use {player} to get the player name
+# Use {line} to make a new line
+msg-unfreeze-successfully: "&aUnMute Player {player} Successfully"
+
+# Use & to change text color
+# Use {player} to get the player name
+# Use {line} to make a new line
+# mode list: popup, message, title
+msg-mute:
+  mode: "popup"
+  msg: "&cYou No Permission to chat"
+...

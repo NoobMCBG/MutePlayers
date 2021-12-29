@@ -1,0 +1,14 @@
+name: MutePlayers
+main: NoobMCBG\MutePlayers\MutePlayers
+api: 4.0.0
+version: 1.0.0
+author: NoobMCBG
+description: Don't let the player chat
+
+permissions:
+  mute.command:
+    description: Permissions use command /mute
+    default: op
+  unmute.command:
+    description: Permissions use command /unmute
+    default: op
