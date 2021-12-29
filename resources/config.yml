@@ -21,7 +21,7 @@ msg-mute-successfully: "&aMute Player {player} Successfully"
 # Use & to change text color
 # Use {player} to get the player name
 # Use {line} to make a new line
-msg-unfreeze-successfully: "&aUnMute Player {player} Successfully"
+msg-unmute-successfully: "&aUnMute Player {player} Successfully"
 
 # Use & to change text color
 # Use {player} to get the player name
