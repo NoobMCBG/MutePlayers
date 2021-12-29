@@ -1,13 +1,12 @@
 <div align="center">
 <h1>MutePlayers v1.0.0<h1>
-<p>Don't let the player move</p>
+<p>Don't let the player chat</p>
 </div>
   
 <br>
   
 ## Features
-- Don't let the player move
-- Avoid the situation that hackers break the server  
+- Don't let the player chat
   
 <br>
  
