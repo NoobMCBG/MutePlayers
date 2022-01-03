@@ -29,7 +29,7 @@ use NoobMCBG\MutePlayers\MutePlayers;
 
 class MuteCommands extends Command {
 
-    public function __construct(Freeze $plugin) {
+    public function __construct(MutePlayers $plugin) {
         $this->plugin = $plugin;
         parent::__construct("mute", "Mute Players", \null, ["m"]);
         $this->setPermission("mute.command");
